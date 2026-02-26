@@ -1,6 +1,6 @@
 # SEEM-OCTA: Geometry-Informed Interactive Refinement for OCTA Vessel Segmentation
 ## 🔥 Overview
-![Teaser](assets/Picture1.png)
+
 <p align="center">
   <img src="assets/Picture1.png" width="800"/>
 </p>
