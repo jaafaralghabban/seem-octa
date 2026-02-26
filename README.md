@@ -30,6 +30,8 @@ seem-octa/
 ├── README.md
 ├── requirements.txt
 ├── setup.py
+├── assets/
+│   ├── Picture1.png
 ├── configs/
 │   └── seem/
 │       └── focall_unicl_lang_demo.yaml
