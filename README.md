@@ -1,4 +1,11 @@
 # SEEM-OCTA: Geometry-Informed Interactive Refinement for OCTA Vessel Segmentation
+## 🔥 Overview
+![Teaser](assets/Picture1.png)
+<p align="center">
+  <img src="assets/Picture1.png" width="800"/>
+</p>
+---
+SEEM-OCTA is an interactive segmentation framework for retinal OCTA vessel extraction...
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.0+](https://img.shields.io/badge/pytorch-2.0+-red.svg)](https://pytorch.org/)
@@ -14,6 +21,7 @@ This repository contains the implementation of **SEEM-OCTA with GIIR (Geometry-I
 - **Two Training Strategies**:
   - **GIIR**: Geometry-Informed deterministic click selection using distance transforms
   - **Random**: SEEM baseline with random click selection
+
 
 ## 📁 Project Structure
 
